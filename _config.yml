@@ -80,9 +80,6 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : "CStichart"
-youtube:
-  username               : "Crispin Stichart"
-  channel                : "UCCoa5kYbqN2bxMZcAqDX0Iw" 
 facebook:
   username               :
   app_id                 :
@@ -120,6 +117,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: https://twitter.com/CStichart"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UCCoa5kYbqN2bxMZcAqDX0Iw"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: https://www.flickr.com/photos/93091610@N03/" 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -158,6 +161,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - .vscode
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
