@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "Crispin Stichart"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Auteur"
-  location         : "your mom"
+  bio              : "Human being, technically a software developer, in throes of midlife crisis. Enjoys thinking way to hard about things that don't matter."
+  location         : #"your mom"
   email            :
   links:
     - label: "Email"
