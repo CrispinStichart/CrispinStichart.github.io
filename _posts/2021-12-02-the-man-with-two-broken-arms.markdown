@@ -15,7 +15,7 @@ A man approaches me. He has both arms wrapped in casts. He asks if he can use my
 
 He calls them, he gets an affirmative answer, and then asks if I can drive him to the pharmacy, which is only a mile or so away. I say sure. (The moral of this story is that interesting things happen if you never say no.) 
 
-I ask him how this broken arms situation happened, and he explains that he'd been helping his sister move, and tripped down a flight of stairs while carrying a box. Bad luck, to be sure. He gave me his time, which I don't remember, so I'll call him Lucas. 
+I ask him how this broken arms situation happened, and he explains that he'd been helping his sister move, and tripped down a flight of stairs while carrying a box. Bad luck, to be sure. He gave me his name, which I don't remember, so I'll call him Lucas. 
 
 Once we're in my car and on the way, he reveals that actually, hey, he doesn't have any money and we need to swing by his friend's place, because his friend owes him money. I say okay.
 
@@ -59,8 +59,10 @@ I ask him where he wants to be dropped off, and he mentions a particular motel, 
 
 I tell him that I have a small apartment and can't let him stay, sorry. He presses me some more, but I remain firm. Then he says he doesn't have enough money for the motel, and all he needs is a twenty. I tell him I don't carry cash. He tells me I can stop at an ATM. He further explains that he'll pay me back by the next day, because he's certain he can sell all his pills by then.
 
-Feeling a bit sorry for him, but also getting tired of this adventure and wanting to get rid of him as smoothly as possible, I stop at a gas station near the motel and withdraw forty dollars. (I am a generous soul.) I give him the cash, as well as a fake phone number.
+Feeling a bit sorry for him, but also getting tired of this adventure and wanting to get rid of him as smoothly as possible, I stop at a gas station near the motel and withdraw forty dollars. (I am a generous soul.) I give him the cash, as well as a fake phone number. Lucas thanks me and assures me that he'll pay me back.
 
-Lucas thanks me and assures me that he'll pay me back, and that's was the last I ever saw of him. Wherever he is now, I hope he's doing better. At the very least, he probably doesn't have two broken arms any more, so that's something.
+---------
+
+That was the last I ever saw of Lucas. Wherever he is now, I hope he's doing better. At the very least, he probably doesn't have two broken arms any more, so that's something.
 
 I went home, showered, and then went and saw *Solo: A Star Wars Story*. The movie was incredibly disappointing, but really, what adventure movie can truly compare to the kind of adventure I just lived through? 
