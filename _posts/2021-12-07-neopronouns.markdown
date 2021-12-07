@@ -19,7 +19,7 @@ I do think neopronouns are a good conversation starter about regular pronouns: l
 
 Also, who are pronouns for? The person being talked about, or the person being talked to? In a one-on-one conversation with someone, you will never use anything other than the second person "you." So in most situations, the only time you'll use someone's third person pronouns is when they're not even present for the conversation. 
 
-I should mention that I think all debate around neopronouns in a tempest in a teakettle. Neopronoun users are mostly confined to insular online communities, and their social norms will not, I believe, spread out to the general population.
+I should mention that I think all debate around neopronouns is a tempest in a teakettle. Neopronoun users are mostly confined to insular online communities, and their social norms will not, I believe, spread out to the general population.
 
 But if someone did ask me to use their neopronouns, I think two things are true:
 
