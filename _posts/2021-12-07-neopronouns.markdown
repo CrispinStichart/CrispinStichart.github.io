@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "My Thoughts on Neopronouns"
 ---
 

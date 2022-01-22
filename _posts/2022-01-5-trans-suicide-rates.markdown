@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Trans Suicide Rates, a Short Response"
 ---
 

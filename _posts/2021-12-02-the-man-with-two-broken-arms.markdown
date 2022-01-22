@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "The Man With Two Broken Arms"
 ---
 

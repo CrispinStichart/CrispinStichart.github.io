@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Brain Worms: Why I Have a Blog Now"
 ---
 

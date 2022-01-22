@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "How to Beat the World Record Mac and Cheese Speedrun"
 ---
 
