@@ -51,7 +51,7 @@ I say,
 
 He laughs and says no, but that if I come to the party he can totally hook me up with some "bitches."
 
-I thank him for the invite and tell him I'll consider it. (I had in fact already considered, and rejected, the idea within a millisecond of receiving the invitation. 
+I thank him for the invite and tell him I'll consider it. (I had in fact already considered, and rejected, the idea within a millisecond of receiving the invitation.)
 
 Lucas and I hit the road again. After a minute, he -- unprompted -- says something hinting at homosexual relations in his past. The way he phrases it is awkward and I'm not sure what to say, so I just said something like, huh, okay. (In retrospect, I wonder if he was gauging my interest in paying for sexual favors.)
 
@@ -65,4 +65,4 @@ Feeling a bit sorry for him, but also getting tired of this adventure and wantin
 
 That was the last I ever saw of Lucas. Wherever he is now, I hope he's doing better. At the very least, he probably doesn't have two broken arms any more, so that's something.
 
-I went home, showered, and then went and saw *Solo: A Star Wars Story*. The movie was incredibly disappointing, but really, what adventure movie can truly compare to the kind of adventure I just lived through? 
+I went home, showered, and then went and saw *Solo: A Star Wars Story*. The movie was incredibly disappointing, but really, what adventure movie can truly compare to the kind of adventure I just had?
