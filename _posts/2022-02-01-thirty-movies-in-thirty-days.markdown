@@ -74,7 +74,7 @@ As mentioned previously, these ratings are a bit harsh. Mediocre movies get a th
 | Name                                | Good? | Passes the Bechdel Test |
 | ----------------------------------- | ----- | ----------------------- |
 | :us: Vanilla Sky (2001)             | ✅     | ❌                       |
-| :us: Spy Movie (2021)               | ✅     | ✅ (technically)         |
+| :us: [A Spy Movie][spy] (2021)      | ✅     | ✅ (technically)         |
 | :kr: Joint Security Area (2000)     | ✅     | ❌                       |
 | :jp: Your Name (2016)               | ✅     | ✅                       |
 | :poland: The Lure (2015)            | ✅     | ✅                       |
@@ -102,3 +102,5 @@ As mentioned previously, these ratings are a bit harsh. Mediocre movies get a th
 | :us: Don't Look Up (2021)           | ✅     | ✅                       |
 | :us: John Dies in the End (2012)    | ✅     | ❌                       |
 | :uk: Anna and the Apocalypse (2017) | ❌     | ✅                       |
+
+[spy]: https://www.youtube.com/watch?v=YziovxOn6kE
