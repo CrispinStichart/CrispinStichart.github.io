@@ -269,9 +269,28 @@ nav {
     font-size: 15px;
   }
 
-  h1 {
+  h1, h2, h3, h4, h5, h6 {
     font-family: $georgia;
   }
+
+  table {
+    border-collapse: collapse;
+    border: 1px solid $gray;
+  }
+
+  th, td {
+    padding: .1em 1em .1em 1em;
+    border: 1px solid $gray;
+    // text-align: center;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+
+  // tr:nth-child(even) {
+  //   background-color: lightblue;
+  // }
 }
 
 .wrapper-footer {
