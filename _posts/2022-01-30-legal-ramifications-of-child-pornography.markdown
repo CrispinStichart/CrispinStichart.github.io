@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Child Pornography Is Interesting – Wait No Not Like That, Come Back!"
+title:  "Legal Ramifications of Child Pornography"
 ---
 
 Child pornography is, legally, very interesting. As far as I can tell, it's the only digital contraband under American law. By contraband, I mean something that is illegal to possess, for any reason, by anyone. In the physical realm, an example would be schedule one drugs, like heroin. 
