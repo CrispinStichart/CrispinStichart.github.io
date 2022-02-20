@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="posts">
+  <div class="blog-introduction">
+    {% capture my_include %}{% include_relative blog_introduction.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+  </div>
+  <hr>
   {% for post in site.posts %}
   <div class="post-stub">
     <div class="date">

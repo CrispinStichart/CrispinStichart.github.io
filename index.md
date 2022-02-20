@@ -29,12 +29,12 @@ I have two and a half years writing software for nuclear submarines, which sound
 I wore many hats, and was involved in:
 
 * Devops
-  * docker
+  * Docker
   * Jenkins
   * a lot of custom glue in bash/python
 * backend
-  * java
-  * python
+  * Java
+  * Python
 * some frontend
   * a small amount of Python/PyGTK
   * JavaFX
