@@ -70,10 +70,16 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
+  filter:hue-rotate(0deg);
   &:hover, &:active {
-    color: $blue;
+    filter: brightness(0.75);
+  }
+  &:visited {
+    // text-decoration: underline;
+    // filter:hue-rotate(180deg);
+    color: $visited_link;
   }
 }
 
@@ -230,6 +236,14 @@ nav {
     text-align: right;
     font-weight: bold;
     letter-spacing: 1px;
+    text-decoration: none;
+    &:visited, &:active {
+      color: $darkGray;
+    }
+    &:hover {
+      text-decoration: underline;
+      color: lightseagreen
+    }
 
     @include mobile {
       margin: 0 10px;
@@ -257,12 +271,24 @@ nav {
 }
 
 .posts > .post-stub {
-  padding-bottom: 1em;
+  padding-top: 1em;
 }
 
 .posts > .post-stub > .date {
   font-style: normal;
+  font-size: 90%;
 }
+
+// .posts > .post-stub a {
+//   font-style: normal;
+//   text-decoration: underline;
+// }
+
+// .posts > .post-stub a:visited {
+//   font-style: normal;
+//   text-decoration: underline;
+//   color: rgb(165, 16, 165);
+// }
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
