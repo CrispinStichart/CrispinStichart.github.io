@@ -340,6 +340,30 @@ nav {
   // }
 }
 
+code {
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+}
+
+code:not(.highlight code) {
+  background-color: rgba(175,184,193,0.2);
+  border-radius: 6px;
+  padding: 0.2em 0.4em;
+  font-size: 85%;
+}
+
+pre.highlight {
+  background-color: rgba(175,184,193,0.2);
+  padding: 7px 7px 7px 10px;
+  border: 1px solid #ddd;
+  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
+  box-shadow: 3px 3px rgba(0,0,0,0.1);
+  margin: 20px 0 20px 0;
+  overflow: auto hidden;
+  font-size: 100%;
+}
+
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
