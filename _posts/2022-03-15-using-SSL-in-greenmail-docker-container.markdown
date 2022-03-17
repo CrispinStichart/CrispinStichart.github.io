@@ -57,10 +57,10 @@ Add the keystore: `jar uvf greenmail-standalone.jar greenmail.p12` (or just open
 **5: Bind mount the JAR when running docker:**
 
 ```
-docker run -v <full path to greenmail-standalone.jar>:/home/greenmail/greenmail-standalone.jar -t -i -e GREENMAIL_OPTS='-Dgreenmail.setup.test.all -Dgreenmail.hostname=0.0.0.0 -Dgreenmail.auth.disabled -D-Dgreenmail.verbose' -p 3025:3025 -p 3110:3110 -p 3143:3143 -p 3465:3465 -p 3993:3993 -p 3995:3995 greenmail/standalone:1.6.7
+docker run --mount src="<full path to greenmail-standalone.jar>",dst="/home/greenmail/greenmail-standalone.jar",type=bind -t -i -e GREENMAIL_OPTS='-Dgreenmail.setup.test.all -Dgreenmail.hostname=0.0.0.0 -Dgreenmail.auth.disabled -Dgreenmail.verbose' -p 3025:3025 -p 3110:3110 -p 3143:3143 -p 3465:3465 -p 3993:3993 -p 3995:3995 greenmail/standalone:1.6.7
 ```
 
-Note that I had to use the *full* path, not relative, of the local JAR file to get it working.
+Note that it *does* have to be the full path, not the relative path, of the local JAR file. Docker will complain if you try to use a relative path.
 
 ---------------------
 
