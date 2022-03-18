@@ -348,6 +348,11 @@ code {
   }
 }
 
+code > span::selection {
+  background: #333333;
+  color: #dadada;
+}
+
 
 code:not(.highlight code) {
   background-color: rgba(175,184,193,0.2);
