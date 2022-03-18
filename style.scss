@@ -342,7 +342,12 @@ nav {
 
 code {
   font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  &::selection {
+    background: #333333;
+    color: #dadada;
+  }
 }
+
 
 code:not(.highlight code) {
   background-color: rgba(175,184,193,0.2);
@@ -360,7 +365,7 @@ pre.highlight {
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
   overflow: auto hidden;
-  font-size: 100%;
+  font-size: 90%;
 }
 
 
