@@ -4,67 +4,70 @@ layout: default
 
 # About Me
 
-Hello, and welcome to my personal ~~geocities~~ website! My name is Crispin Stichart, which, yes, is quite the unusual name. As far as I am aware, I am the only Crispin Stichart on this entire planet. 
+Hello, and welcome to my personal ~~geocities~~ website! My name is Crispin Stichart, which, yes, is quite the unusual name. As far as I am aware, I am the only Crispin Stichart on this entire planet.
 
 Here's a quick rundown on me:
 
-* I like cats 
+* I like cats
   * I do not like dogs unless they are fluffy and friendly
 * I am a software developer
 * I recently remodeled a log cabin with no prior experience in construction
   * I am very proud of the floating staircase I built
-* I love reading (fiction)
+* I like to read
   * If you're looking for a good book, may I suggest *The Devourers* by Indra Das
-* I eat oatmeal every day
-* I like writing but it's haaaaaaaaaaaard so I don't do it much
+* I try my hand at writing fiction sometimes, but I've never finished anything
 * I have a nice camera and, very occasionally, take some nice photos
-  * I have also made some videos! :D (They are bad :( )
+  * I have also made some videos! They're weird and probably not as funny as I think they are. However, [an 8-second video](https://www.youtube.com/watch?v=eP21UWLEJxE) I uploaded back in 2018 now has, appropriately, over 8K views, so that's some kind of validation I guess.
 
-# My Resume (Recruiters please read this pretty please)
+
+# My Resume
 
 If you're here because I linked this website on my resume, then feast your eyes:
 
-I have two and a half years writing software for nuclear submarines, which sounds way cooler than it actually was.
+I spent two and half years writing software for nuclear submarines, during which time I wore many hats.
 
-I wore many hats, and was involved in:
+I was involved in:
 
 * Devops
   * Docker
   * Jenkins
-  * a lot of custom glue in bash/python
+  * a lot of custom glue in bash/Python
 * backend
   * Java
   * Python
 * some frontend
   * a small amount of Python/PyGTK
   * JavaFX
+  * Do TUIs count as frontend?
+    * I worked on some `ncurses` based TUIs
 * Linux-related sysadmin work
   * created custom Linux distributions
   * wrote an insane amount of bash scripts
 
-I quit that job about two years ago, and have not worked in the industry since. I quit because I was trying to find the meaning of life. Luckily, I found it! Now I'm back in the coding game and looking to put my skills to use. 
+Some notable personal projects:
 
-I've also done a few projects over the years that I'm kind of proud of:
-
-* [Format text into custom shapes](https://kingcritter.github.io/TextFormatterJavascript/index.html)
+* [Text Shaper](https://github.com/CrispinStichart/text-shaper) [(Live on the web)](https://crispinstichart.github.io/text-shaper/)
   * I could not find a single tool on the web to do this, so it *may* be a 100% original idea
   * Wrote this while in school, because there was a t-shirt design contest for the ACM chapter, and I thought it'd be neat to have a design that was a bunch of code formatted to look like the school mascot or logo. It didn't win. -_-
+  * Recently dusted it off and started polishing it up while learning new frontend skills.
+* [Wordle Results Editor](https://github.com/CrispinStichart/wordle-result-editor) [(Live on the Web)](https://crispinstichart.github.io/wordle-result-editor/)
+  * You know that game Wordle? You know how it gives you that neat little shareable block of emojis? Well, what if you wanted to replace those emojis with something else? Paste it into a word editor and then run three find and replace actions on it? So much work! Use this app instead!
+  * I learned React to write this, so the code is pretty iffy. Gotta start somewhere, right?
 * [CHIP-8 Emulator](https://github.com/kingcritter/chip8_interpreter)
   * The first, and to date only, emulator I've ever written
-  * Also the first and last significant amount of Rust code I've ever written
-* [Mail Filter](https://github.com/CrispinStichart/imap_client) (*work in progress*)  
-  *  Simple mail client intended to run 24/7 and send all incoming mail through whatever filters you define
+  * The first Rust project I did. It was before I had really put the effort in to understand the fundamentals of the language, so it's probably not very idiomatic.
+* [Email Liberator](https://github.com/CrispinStichart/email-liberator) (*work in progress*)
+  *  A collection of small utilities to interact with an email server
   *  Started working on it after being unable to do what I wanted with Gmail's automatic filtering tools
+  *  The [first version](https://github.com/CrispinStichart/imap_client) was written in Python, and then I got so mad at the python packaging ecosystem that I went and relearned Rust.
 
-I am also an Open Source Contributor™! (a [one-character fix](im-an-open-source-contributer/) is still a contribution, and I will die on this hill.) 
+I am also an Open Source Contributor™! (a [one-character fix](im-an-open-source-contributer/) is still a contribution, and I will die on this hill.)
 
-[onechar]: im-an-open-source-contributer/
+[onechar]:im-an-open-source-contributer/
 
-Recruiters can stop reading now. :)
+# Photos
 
-# Other Stuff
-
-I take photos sometimes. You can see my full gallery [on Flickr](https://www.flickr.com/photos/93091610@N03/), and here's a few I particularly like. As you can see, I don't have a particular style or niche. 
+I take photos sometimes. You can see my full gallery [on Flickr](https://www.flickr.com/photos/93091610@N03/), and here's a few I particularly like. As you can see, I don't have a particular style or niche.
 
 <div class="gallery">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/93091610@N03/31493156474/in/dateposted/" title="The Ocean"><img src="https://live.staticflickr.com/489/31493156474_8363d76ec8_w.jpg" width="400" height="267" alt="The Ocean"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -80,6 +83,6 @@ I take photos sometimes. You can see my full gallery [on Flickr](https://www.fli
 
 # Blog
 
-Yeah, I have a blog. You probably saw the link up top. Reading a person's blog is the closest you'll ever get to reading their mind, so if you've ever wanted psychic powers I guess you gotta go click that link. 
+Yeah, I have a blog. You probably saw the link up top. Reading a person's blog is the closest you'll ever get to reading their mind, so if you've ever wanted psychic powers I guess you gotta go click that link.
 
 <!-- I also have made some videos. Some are cringe  -->
