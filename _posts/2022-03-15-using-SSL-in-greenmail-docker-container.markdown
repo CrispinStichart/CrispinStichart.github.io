@@ -7,7 +7,7 @@ title:  "Using SSL/TLS in a Greenmail Docker Container"
 
 I'm making this post because I literally spent at least 8 hour of my life over the past three days trying to figure this out. For someone who knows crypto stuff, that's probably going to seem ridiculous, but I do not know crypto stuff, and my eyes immediately glaze over when I see an `openssl` command.
 
-So here's the deal: I'm working on a simple mail client, written in Rust, and I wanted to do some integration testing. I'm using [rust-imap](https://github.com/jonhoo/rust-imap), and that project has integration tests that use a tool called [Greenmail](https://greenmail-mail-test.github.io/greenmail/). Greenmail is a mail server built for doing integration; in other words, exactly what I need. 
+So here's the deal: I'm working on a simple mail client, written in Rust, and I wanted to do some integration testing. I'm using [rust-imap](https://github.com/jonhoo/rust-imap), and that project has integration tests that use a tool called [Greenmail](https://greenmail-mail-test.github.io/greenmail/). Greenmail is a mail server built for doing integration; in other words, exactly what I need.
 
 So I downloaded the docker container and quickly got it up and running, using the `rust-imap` tests as a starting point. However, when I say "up and running" I just mean that the server was running and listening for connections, but my client wasn't able to connect due to an SSL issue: the server's certificate was untrusted.
 
@@ -26,11 +26,11 @@ openssl req -x509 -newkey rsa:4096 -sha256 -days 3650 -nodes \
  -keyout greenmail.key -out greenmail.crt -subj "/CN=localhost" \
  -addext "subjectAltName=DNS:localhost,IP:127.0.0.1"
  ```
- 
- The `subjectAltName` is the critical bit; a lot of places on the internet imply that it'll work as long as the CN is set to `localhost`. However, support for that has been apparently deprecated for almost two decades.  Had to learn that from a random post on the [python bug tracker](https://bugs.python.org/issue34440#msg323786). 🙄 
- 
+
+ The `subjectAltName` is the critical bit; a lot of places on the internet imply that it'll work as long as the CN is set to `localhost`. However, support for that has been apparently deprecated for almost two decades.  Had to learn that from a random post on the [python bug tracker](https://bugs.python.org/issue34440#msg323786). 🙄
+
 **2: Generate the `.p12` keystore:**
- 
+
  ```
  openssl pkcs12 -export -out greenmail.p12 \
  -inkey greenmail.key -in greenmail.crt
@@ -69,4 +69,4 @@ Note that it *does* have to be the full path, not the relative path, of the loca
 
 ---------------------
 
-After all that, I can successfully establish a secure connection with the Greenmail server. Now I can actually write some tests. 😤  
+After all that, I can successfully establish a secure connection with the Greenmail server. Now I can actually write some tests. 😤
