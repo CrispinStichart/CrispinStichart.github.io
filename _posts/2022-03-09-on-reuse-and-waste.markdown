@@ -19,7 +19,7 @@ Speaking of things meant to be disposable...
 
 This is my water bottle.
 
-![speaker](/images/posts/2022-03-09-on-reuse-and-waste/bottle.jpg)
+![water bottle](/images/posts/2022-03-09-on-reuse-and-waste/bottle.jpg)
 
 I've owned it since 2018. It's a [Essentia][essentia] brand disposable water bottle. I purchased it for, I don't know, three or four dollars? As you can see, I did not dispose of it. I have used it every single day since then, and taken it with me on many adventures (you can see a few national park stickers on there). 
 
