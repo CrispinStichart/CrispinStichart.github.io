@@ -43,6 +43,7 @@ I was involved in:
 * Linux-related sysadmin work
   * created custom Linux distributions
   * wrote an insane amount of bash scripts
+    * you might be unsettled to learn how much of a role bash scripts play in keeping a nuclear powered, nuclear armed submarine operation
 
 Some notable personal projects:
 
