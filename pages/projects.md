@@ -73,6 +73,12 @@ At least when I wrote this, I couldn't find anything else on the web that could 
 
 My design did not win.
 
+## Random Dinosaur Comics Second Panel (Python/Flask/Heroku)
+
+[Click here][random] for a random second panel from Dinosaur Comics. This is an oddball one, so I wrote a whole [post][dino] about it.
+
+[random]: https://dino-comics-second-panel.herokuapp.com/random
+[dino]: ../dino-comics
 ## CHIP-8 Emulator (Rust)
 
 [GitHub](https://github.com/kingcritter/chip8_interpreter)
