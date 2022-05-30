@@ -79,6 +79,7 @@ My design did not win.
 
 [random]: https://dino-comics-second-panel.herokuapp.com/random
 [dino]: ../dino-comics
+
 ## CHIP-8 Emulator (Rust)
 
 [GitHub](https://github.com/kingcritter/chip8_interpreter)
