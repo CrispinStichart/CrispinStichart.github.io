@@ -40,7 +40,7 @@ h5,
 h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
+  // font-weight: bold;
 
   line-height: 1.3;
   margin: 1em 0 15px;
@@ -49,6 +49,14 @@ h6 {
   @include mobile {
     line-height: 1.4;
   }
+
+  // &::before {
+  //   content: "#";
+  // }
+
+  // &::after {
+  //   content: " —";
+  // }
 }
 
 h1 {
@@ -73,7 +81,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 15px 0 15px 10px;
 }
 
 a {
@@ -131,7 +139,41 @@ b {
 }
 
 img {
-  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+}
+
+blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid $gray;
+  padding: 0.1em .7em;
+  // font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid $gray;
+  // width: 100%;
+
+  img {
+    display: initial;
+    margin-left: initial;
+    margin-right: initial;
+    max-width: initial;
+  }
+}
+
+th,
+td {
+  padding: .1em 1em .1em 1em;
+  border: 1px solid $gray;
+  // text-align: center;
+}
+
+th {
+  font-weight: bold;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -290,6 +332,8 @@ nav {
   height: 100%;
   object-fit: cover;
   height: auto;
+  max-width: 100%;
+
 }
 
 .posts>.post-stub {
@@ -322,12 +366,7 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    font-style: italic;
-  }
+
 
   .comments {
     margin-top: 10px;
@@ -338,38 +377,17 @@ nav {
     font-size: 15px;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: $georgia;
-    line-height: 1.3;
-  }
+  // h1,
+  // h2,
+  // h3,
+  // h4,
+  // h5,
+  // h6 {
+  //   font-family: $georgia;
+  //   line-height: 1.3;
+  // }
 
-  table {
-    border-collapse: collapse;
-    border: 1px solid $gray;
-  }
 
-  th,
-  td {
-    padding: .1em 1em .1em 1em;
-    border: 1px solid $gray;
-    // text-align: center;
-  }
-
-  th {
-    font-weight: bold;
-  }
-
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 90%;
-  }
 
   // tr:nth-child(even) {
   //   background-color: lightblue;
