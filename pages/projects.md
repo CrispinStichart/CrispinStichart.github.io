@@ -40,7 +40,7 @@ It's very early in the prototyping stage and I still have a lot of work to do, b
 
 [linkrot]: https://en.wikipedia.org/wiki/Link_rot
 
-# Zillow Internet Availability Integration (JavaScript, work-in-progress)
+## Zillow Internet Availability Integration (JavaScript, work-in-progress)
 
 At least in the United States, Zillow is the main website to look for a house or apartment. Despite containing all the other information you would want about a property, it doesn't answer the most important question: what kind of internet can I get here?
 
