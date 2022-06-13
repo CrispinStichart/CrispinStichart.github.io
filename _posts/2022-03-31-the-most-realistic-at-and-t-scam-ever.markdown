@@ -7,7 +7,7 @@ title:  "The Most Authentic Seeming AT&T Scam Ever?"
 
 I recently signed up for AT&T fiber internet. There were three "limited time offer!" bonus deals that I was able to snag, the reward for which were prepaid debit cards of varying amounts: $250, $100, and $50. Within about two weeks, I'd received the $250 and $50 cards, but not the $100 one.
 
-Eventually, I figured out that I wasn't going to be getting that reward. What had happened is that I picked out the plan, added it to my shopping card, was notified that I'd be getting those three deals... and then I didn't actually complete the purchase until a week or so later, after the $100 deal had expired, *but* the expiration was not reflected in my shopping cart.
+Eventually, I figured out that I wasn't going to be getting that reward. What had happened is that I picked out the plan, added it to my shopping cart, was notified that I'd be getting those three deals... and then I didn't actually complete the purchase until a week or so later, after the $100 deal had expired, *but* the expiration was not reflected in my shopping cart.
 
 I'm not entirely surprised that the programmers responsible for the website missed that edge case -- I can't imagine that what I did was very common. I *am* surprised that the deals I did get were not actually listed on the invoice or displayed anywhere else that I could find.
 
