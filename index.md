@@ -8,18 +8,23 @@ Hello, and welcome to my personal ~~geocities~~ website! My name is Crispin Stic
 
 Here's a quick rundown on me:
 
+* I don't update this wobsite very often
+* I've been told that I look like:
+  * the kind of person who would drive a Subaru
+  * the kind of person who would bake bananna bread
+  * Joaquin Phoenix (I do not)
 * I like cats
   * I do not like dogs unless they are fluffy and friendly
 * I am a software developer
-* I recently remodeled a log cabin with no prior experience in construction
+  * Currently tutoring to get by, because Reasons 
+* I remodeled a log cabin with no prior experience in construction
   * I am very proud of the floating staircase I built
 * I like to read
   * If you're looking for a good book, may I suggest *The Devourers* by Indra Das
 * I try my hand at writing fiction sometimes, but I've never finished anything
 * I have a nice camera and, very occasionally, take some nice photos
-  * I have also made some videos! They're weird and probably not as funny as I think they are. However, [an 8-second video](https://www.youtube.com/watch?v=eP21UWLEJxE) I uploaded back in 2018 now has, appropriately, over 8K views, so that's some kind of validation I guess.
+  * I have also made some videos! They're weird and probably not as funny as I think they are. However, [an 8-second video](https://www.youtube.com/watch?v=eP21UWLEJxE) I uploaded back in 2018 now has over 8K views, so that's some kind of validation I guess.
 
-Check out my [Projects](./projects) page for all the super awesome personal projects I've done.
 
 # Photos
 
@@ -36,9 +41,3 @@ I take photos sometimes. You can see my full gallery [on Flickr](https://www.fli
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/93091610@N03/21361145174/in/dateposted/" title="Sparks"><img src="https://live.staticflickr.com/5785/21361145174_5b17213a66_w.jpg" width="267" height="400" alt="Sparks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/93091610@N03/21983907265/in/dateposted/" title="Flower"><img src="https://live.staticflickr.com/563/21983907265_e7fd3d533c_w.jpg" width="267" height="400" alt="Flower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-
-# Blog
-
-Yeah, I have a blog. You probably saw the link up top. Reading a person's blog is the closest you'll ever get to reading their mind, so if you've ever wanted psychic powers I guess you gotta go click that link.
-
-<!-- I also have made some videos. Some are cringe  -->
