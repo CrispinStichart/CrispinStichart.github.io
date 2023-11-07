@@ -10,6 +10,7 @@ permalink: currently_reading
 
 <section>
     <h2>Last Read</h2>
+    
     <table>
         <tr>
             <th>Title</th>
@@ -20,7 +21,7 @@ permalink: currently_reading
         <tr>
             <td>{{  book.title }}</td>
             <td>{{  book.author }}</td>
-            <td>{{  book.date_finished |  date_to_string }}</td>
+            <td>{{  book.date_finished |  date: "%B '%y" }}</td>
         </tr>
         {% endfor %}
     </table>
