@@ -5,8 +5,41 @@ permalink: projects
 
 # Projects
 
-Here are a few personal projects I've worked on.
+Here are a few personal projects I've worked on. You'll note a lot of unfinished projects on here. What happens is that I get really excited about solving a problem, and then after I've done a large chunk of the work one of the following happens:
 
+* it works well enough for my needs, and I never spend the time to polish it and release it for wider use
+* while developing it, I come across existing software that does exactly what I want
+* I lose interest in the original goal
+* some combination of the above.
+
+But trust me, as long as you're paying me, I won't lose interest and abandon you. I promise!
+
+## Games (Godot, GDScript) 
+
+[My itch.io page](https://crispinstichart.itch.io/)
+
+I've been getting into making games with the Godot game engine. It's been really fun, and I've been able to learn about and use some CS techniques that I never had to before, like state machines and event busses.
+
+You can click the link above to check out an up-to-date list, but so far it's just three:
+
+1) [Diablo 69](https://crispinstichart.itch.io/diablo69), my first game and therefore worst. Elevated by my blatant copyright infringement of Diablo 2 music and sound effects.
+2) [Snerk](https://crispinstichart.itch.io/snerk), which I made in a week to see if I could actually go from start to finish in that time frame.
+3) [Markerio](https://crispinstichart.itch.io/markerio-1-1) is the first level of the original Mario game, but drawn and played on a whiteboard. I made all the art and sound effects. Music is from a friend.
+4) [Untitled Platformer](https://crispinstichart.itch.io/metroidvania-movement-test): the first game I made that I think is actually kinda fun. If you like challenging platforming games, anyway. I'm currently expanding this codebase to add combat mechanics, but I think I'll upload that version as a different project.
+
+## Tutor.com Schedule to Google Calendar (Python)
+
+[Github](https://github.com/ExtremeDramaLlama/ScheduleToCalendar)
+
+I currently (as of February 2024) contract as a computer science tutor for a company called Tutor.com. Their online shift schedular doesn't offer any Calendar integrations, so I made one myself.  
+
+This project gave me some exposure to working with a complex large API like google's, and it allowed me to write, and then fix, my very first daylight-savings-time-related bug.
+
+As a side note, you may notice that the repository is under the name "ExtremeDramaLlama". This alt account was to shield myself from reprisal from Tutor.com if they decided to take umbrage to a project like this, which no doubt violates their terms of use. However, I no longer care, and if I get fired from that dumpster fire of a company, I won't even be mad. 
+
+## Kobo Backup and Analytics (Rust, SQL)
+
+I have a Kobo E-Reader and I spent some time working on a solution to performing automatic backups of the database and doing analysis on the data. I'm mentioning it here as a reminder to myself to write a blog post detailing my findings. Although I didn't get too far into it, some things I discovered could help out anyone who wants to do anything similar.
 
 ## Wordle Results Editor (JavaScript/React)
 
@@ -30,7 +63,7 @@ The answer was "trickier than expected," especially as the scope of the project 
 
 [GitHub](https://github.com/CrispinStichart/jekyll-automatic-link-archiver)
 
-Link rot is the name for the fact that over time, links break. Read any blog from fifteen years ago, and chances are good that any links provided are either completely non-functional or point to something completely different.
+[Link rot][linkrot] is the name for the fact that over time, links break. Read any blog from fifteen years ago, and chances are good that any links provided are either non-functional or point to something completely different.
 
 The Internet Archive really helps, but they can't spider everything. And furthermore, relying on them puts the burden on your future readers. What if instead, *you* archived everything you linked to?
 
