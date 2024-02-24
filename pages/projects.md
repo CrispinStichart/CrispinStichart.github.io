@@ -22,10 +22,10 @@ I've been getting into making games with the Godot game engine. It's been really
 
 You can click the link above to check out an up-to-date list, but so far it's just three:
 
-1) [Diablo 69](https://crispinstichart.itch.io/diablo69), my first game and therefore worst. Elevated by my blatant copyright infringement of Diablo 2 music and sound effects.
-2) [Snerk](https://crispinstichart.itch.io/snerk), which I made in a week to see if I could actually go from start to finish in that time frame.
-3) [Markerio](https://crispinstichart.itch.io/markerio-1-1) is the first level of the original Mario game, but drawn and played on a whiteboard. I made all the art and sound effects. Music is from a friend.
-4) [Untitled Platformer](https://crispinstichart.itch.io/metroidvania-movement-test): the first game I made that I think is actually kinda fun. If you like challenging platforming games, anyway. I'm currently expanding this codebase to add combat mechanics, but I think I'll upload that version as a different project.
+1. [Diablo 69](https://crispinstichart.itch.io/diablo69), my first game and therefore worst. Elevated by my blatant copyright infringement of Diablo 2 music and sound effects.
+2.  [Snerk](https://crispinstichart.itch.io/snerk), which I made in a week to see if I could actually go from start to finish in that time frame.
+3. [Markerio](https://crispinstichart.itch.io/markerio-1-1) is the first level of the original Mario game, but drawn and played on a whiteboard. I made all the art and sound effects. Music is from a friend.
+4. [Untitled Platformer](https://crispinstichart.itch.io/metroidvania-movement-test): the first game I made that I think is actually kinda fun. If you like challenging platforming games, anyway. I'm currently expanding this codebase to add combat mechanics, but I think I'll upload that version as a different project.
 
 ## Tutor.com Schedule to Google Calendar (Python)
 
