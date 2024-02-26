@@ -18,7 +18,7 @@ But trust me, as long as you're paying me, I won't lose interest and abandon you
 
 [My itch.io page](https://crispinstichart.itch.io/)
 
-I've been getting into making games with the Godot game engine. It's been really fun, and I've been able to learn about and use some CS techniques that I never had to before, like state machines and event busses.
+I've been getting into making games with the Godot game engine. It's been really fun, and I've been able to learn about and use some CS techniques that I never had to before, like state machines and event buses.
 
 You can click the link above to check out an up-to-date list, but so far it's just three:
 
