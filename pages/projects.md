@@ -39,7 +39,9 @@ As a side note, you may notice that the repository is under the name "ExtremeDra
 
 ## Kobo Backup and Analytics (Rust, SQL)
 
-I have a Kobo E-Reader and I spent some time working on a solution to performing automatic backups of the database and doing analysis on the data. I'm mentioning it here as a reminder to myself to write a blog post detailing my findings. Although I didn't get too far into it, some things I discovered could help out anyone who wants to do anything similar.
+[Github](https://github.com/CrispinStichart/Kobo-Backup), [Blog Post](../backing-up-and-parsing-kobo-database)
+
+I have a Kobo E-Reader and I spent some time working on a solution to performing automatic backups of the database and doing analysis on the data. Although I didn't get too far into it, some things I discovered might help out anyone who wants to do anything similar.
 
 ## Wordle Results Editor (JavaScript/React)
 
