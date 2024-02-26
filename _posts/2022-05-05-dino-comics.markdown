@@ -52,6 +52,10 @@ You can also request specific panels, like so:
 * [https://dino-comics-second-panel.herokuapp.com/comic/69](https://dino-comics-second-panel.herokuapp.com/comic/69)
 * [https://dino-comics-second-panel.herokuapp.com/comic/420](https://dino-comics-second-panel.herokuapp.com/comic/420)
 
+### Update
+
+Not too long after posting this, Heroku got rid of their free tree. I'll probably eventually set it up with an alternate host.
+
 ## Do it yourself
 
 If you like this but want to host it yourself, or use the panels for another purpose, I [uploaded everything to GitHub](https://github.com/CrispinStichart/dinosaur-comics-random-second-panel).
