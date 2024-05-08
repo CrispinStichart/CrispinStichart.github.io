@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Input Example</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div id="page">
+    <h1>None of those are in the Bible... or <em>are</em> they?</h1>
+    <p>For context, see <a href="https://knowyourmeme.com/memes/none-of-these-words-are-in-the-bible">this Know Your
+        Meme page</a>. </p>
+    <div id="inputContainer">
+        <textarea
+                placeholder="Fox is making a blockchain animated series with Rick and Morty creator Dan Harmon to sell you NFTs"
+                id="textbox"></textarea>
+        <button onclick="submitButtonClicked()">Submit</button>
+    </div>
+
+    <div id="resultsContainer" hidden="hidden">
+        <div id="words">
+            <a id="another" onclick="resetInput()">enter another phrase</a>
+
+            <div>
+                <h2>Words Not In Bible</h2>
+                <ul id="wordsNotInBible"></ul>
+            </div>
+            <h2>Words In Bible</h2>
+            <p>Click words to see verses</p>
+            <div id="wordsInBible"></div>
+        </div>
+    </div>
+    <script src="bibles/kjv.js"></script>
+    <script src="parse_bible.js"></script>
+
+    <script src="controller.js"></script>
+</div>
+</body>
+</html>
