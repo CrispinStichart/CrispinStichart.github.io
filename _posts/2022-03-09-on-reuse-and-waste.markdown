@@ -31,6 +31,8 @@ There are some people out there that actually buy plastic water bottles every da
 
 The only good thing about this state of affairs is that it gives me something to feel smugly superior about. 
 
+Update: I retired it around September of 2024, in favor of a metal water bottle. It now sits on my shelf as a memento of where I've been. 
+
 [essentia]: https://essentiawater.com/
 [cnet]: https://www.cnet.com/videos/altec-lansing-inmotion-im600/
 
