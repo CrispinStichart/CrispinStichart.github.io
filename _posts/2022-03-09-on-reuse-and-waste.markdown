@@ -15,6 +15,8 @@ Now, I think many people would see that description and say "wtf bro, just buy a
 
 But the thing is, the speaker is *actually* quite good at its job. It gets loud enough for parties, the clarity is decent, and there's enough bass to make it sound good. I'm not going to buy a new one until this one truly bites the dust. I'm doing it partly out of frugality, and partly in defiance of consumerism. These things are unfixable. They're *meant* to be discarded when they start to break down, even if the  parts that are breaking are minor and have nothing to do with the object's primary purpose.
 
+Update March 21st, 2025: it finally died. It was at least eleven years old, at most seventeen. It got to live in five different states, and was the life of a couple of wild parties. Rest in peace.
+
 Speaking of things meant to be disposable... 
 
 This is my water bottle.
