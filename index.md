@@ -10,13 +10,17 @@ Here's a quick rundown on me:
 
 * I don't update this wobsite very often
 * I've been told that I look like:
-  * the kind of person who would drive a Subaru
-  * the kind of person who would bake bananna bread
+  * the kind of person who would drive a Subaru (I thought about it, but ended up buying a RAV4)
+  * the kind of person who would bake bananna bread (I do, I love the stuff)
   * Joaquin Phoenix (I do not)
 * I like cats
   * I do not like dogs unless they are fluffy and friendly
 * I am a software developer
-  * Currently tutoring to get by, because Reasons 
+  * worked for a defense contractor for a bit over two years after graduating, writing software for nuclear submarines
+    * it was far less cool than it sounds
+  * after having a midlife crises and quiting during COVID, I ended up tutoring computer science online for about a year and a half
+    * if you hear someone mention that they're thinking of attending DeVry, DO NOT LET THEM
+  * currently (since September 2024) working as a software developer for the Fairbanks North Star Borough ("borough" being what Alaska calls counties)    
 * I remodeled a log cabin with no prior experience in construction
   * I am very proud of the floating staircase I built
 * I like to read
